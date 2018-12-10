@@ -1,0 +1,13 @@
+{
+	"name": "image-uploader",
+	"version": "0.1.0",
+	"main": "server.js",
+	"script": {
+		"start": "start node server.js"
+	},
+	"dependencies": {
+		"body-parser": "^1.18.3",
+		"express": "^4.16.4",
+		"express-fileupload": "^1.0.0"
+	}
+}
